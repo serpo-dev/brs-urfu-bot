@@ -5,10 +5,12 @@ Telegram bot to notify about estimates changing. I have made a similar simplier 
 ## Preview
 
 - Example of the notification:
-![Example of the notification](https://github.com/yphwd/brs-urfu-bot/attachments/preview.jpg)
+
+![Example of the notification](https://raw.githubusercontent.com/yphwd/brs-urfu-bot/master/attachments/preview.jpg)
 
 - Example of the json data cache file located in `/cache/cache.json` (this folder and file creates automatically when script is executed):
-![Example of the json data cache file located in "/cache/cache.json"](https://github.com/yphwd/brs-urfu-bot/attachments/json.jpg)
+
+![Example of the json data cache file located in "/cache/cache.json"](https://raw.githubusercontent.com/yphwd/brs-urfu-bot/master/attachments/json.jpg)
 
 ## Installation
 
